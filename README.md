@@ -1,2 +1,2 @@
-# covid-data
-Data and notes for COVID confirmed cases + deaths
+#COVID Notes
+Currently just has daily notes on oddities in confirmed case + death data

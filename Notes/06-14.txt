@@ -1,0 +1,36 @@
+06-14
+
+Total cases: 2,082,229 (+20,245)
+Total deaths: 114,969 (+330)
+
+No Updates (Confirmed Cases)
+
+RI
+KS
+KY
+MO
+
+No Updates (Deaths)
+
+RI
+KS
+KY
+MO
+
+Notes (States)
+
+NJ
+	- Statewide unallocated numbers backfilled for 06/13 to 667. Data sourced daily summary, error attributable to erroneous dashboard entry on the covid.nj.gov dashboard
+
+AL
+	- State has begun reporting confirmed and probable cases. Both will be published starting Monday, 06/15 -- it appears unlikely that backfilling these numbers is possible, and this will cause a notable shift in confirmed case numbers throughout the state.
+
+TX
+	- Counties are reporting well ahead of the state aggregation -- it appears, on average, by about two days. This is remains a priority to address.
+	- Brazoria County, TX (and potentially others) has stopped including inmate numbers in its state total. At this point in time, it is not clear from the county or the state if these numbers are incorporated in other counties or the state total. Currently, the data published continues to include the inmate counts even though the state no longer does. 
+
+CA
+	- Many counties, and a few large counties like Riverside County, CA, update weekend numbers on Mondays -- these are backfilled if possible, but over the weekend will show a stagnation in cases. 
+
+OK, NV
+	- Both states require slight revision of previous dates' data due to gaps in data publishing.
