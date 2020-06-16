@@ -1,0 +1,81 @@
+06-15
+
+Total cases: 
+Total deaths: 
+
+
+All states showed increases in cconfirmed cases. The following states saw no increase in deaths:
+
+WY
+WV
+VT
+SD
+OK
+AK
+ND
+DC
+HI
+MT
+NH
+
+
+Notes (States)
+
+AL:
+
+As noted yesterday, the data now includes both probable cases and deaths. Because of this, 
+there are 380 additional cases and 5 additional deaths reported in the published data today. 
+A breakdown is available in the notes/supplements folder in the repo here: 
+https://github.com/aamir-gt/covid-data
+
+TX:
+
+On June 8th, Brazoria County, TX removed inmate numbers from there overall case counts, causing
+a significant decrease in cases. This is reported on the official county Facebook page here: 
+https://www.facebook.com/BrazoriaCo/ 
+
+By examining the reporting on the Facebook page, it appears that on June 8th, 267 inmates were
+removed from the county's tabulation -- the county reported 22 new cases on 06/07, and the overall total decreased 
+from what would have been 1025 to 758 [1025 - 758 = 267]. 
+
+The numbers published from June 8th onwards [https://www.brazoriacountytx.gov/departments/health-department/brazoria-county-coronavirus-map]
+should then include an additional 267 cases. Brazoria County additionally provides line item
+case details with case IDs. At this point in time the number of cases in the county can be 
+represented by the largest case ID reported on the county website (case IDs normally incremented 
+by 1 and were not reused when inmates were taken out of the reporting).
+
+Inmate numbers are shown because it is unclear from the TX Dept of Criminal Justice [https://www.tdcj.texas.gov/covid-19/definitions.html]
+if those numbers are being incorporated in the overall state numbers at all. Additionally, the data
+from the TX Dept of Criminal Justice is not reliable because as noted on their site: 
+
+Positive cases are "may include multiple positive cases per person, if the person was tested more 
+than once." This is more appropriately interpreted as "Positive Tests." It's possible that 
+Active Cases + Recovered Cases is reflective of the total cumulative confirmed cases in the TX 
+DOC, but we are not comfortable making that assessment at this time.
+
+
+OR:
+
+There were 99 new cases in Union County, OR, which represents an abnormal spike. This is attributable
+to a local outbreak. From the state: "OHA is coordinating with Union County public health authorities 
+to respond to an outbreak of COVID-19. The outbreak explains the high number of cases today in Union County"
+[https://www.oregon.gov/oha/ERD/Pages/Oregon-reports-184-new-confirmed-and-presumptive-COVID-19-cases-4-new-deaths.aspx]
+
+KS:
+
+Crawford County, KS showed an abnormal spike from 18 to 96 cases.
+
+NM:
+
+Hidalgo County, NM reported an increase from 3 to 20 cases.
+
+
+
+
+
+
+
+
+
+
+
