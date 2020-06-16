@@ -71,6 +71,11 @@ NM:
 
 Hidalgo County, NM reported an increase from 3 to 20 cases.
 
+MO:
+
+MO did not update their dashboard on 06/14, but published statewide totals on their health website. These were all placed
+in Statewide Unallocated. This is not an issue in the 06/15 data.
+
 
 
 
