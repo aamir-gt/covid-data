@@ -1,7 +1,7 @@
 06-15
 
-Total cases: 
-Total deaths: 
+Total cases: 2,101,605 (+18,848)
+Total deaths: 115,386 (+402)
 
 
 All states showed increases in cconfirmed cases. The following states saw no increase in deaths:
@@ -38,13 +38,15 @@ By examining the reporting on the Facebook page, it appears that on June 8th, 26
 removed from the county's tabulation -- the county reported 22 new cases on 06/07, and the overall total decreased 
 from what would have been 1025 to 758 [1025 - 758 = 267]. 
 
-The numbers published from June 8th onwards [https://www.brazoriacountytx.gov/departments/health-department/brazoria-county-coronavirus-map]
+The numbers published from June 8th onwards 
+[https://www.brazoriacountytx.gov/departments/health-department/brazoria-county-coronavirus-map]
 should then include an additional 267 cases. Brazoria County additionally provides line item
 case details with case IDs. At this point in time the number of cases in the county can be 
 represented by the largest case ID reported on the county website (case IDs normally incremented 
 by 1 and were not reused when inmates were taken out of the reporting).
 
-Inmate numbers are shown because it is unclear from the TX Dept of Criminal Justice [https://www.tdcj.texas.gov/covid-19/definitions.html]
+Inmate numbers are shown because it is unclear from the TX Dept of Criminal Justice 
+[https://www.tdcj.texas.gov/covid-19/definitions.html]
 if those numbers are being incorporated in the overall state numbers at all. Additionally, the data
 from the TX Dept of Criminal Justice is not reliable because as noted on their site: 
 
