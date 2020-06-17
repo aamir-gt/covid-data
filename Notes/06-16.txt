@@ -1,0 +1,47 @@
+06-16
+
+Total cases: 2,101,605 (+24,728)
+Total deaths: 115,386 (+791)
+
+Did not update (cases and deaths):
+
+KS
+
+The following cases had no increase in deaths:
+
+MT
+ID
+HI
+ND
+AK
+ME
+KS
+VT
+WV
+WY
+
+
+Notes (States)
+
+TX:
+
+The state began including cases from inmates once again. The dataset is preferring the state health department 
+website for counties with significant inmate populations. 
+
+Anderson County, TX had an increase of 800+ cases due to the incorporation of inmate numbers -- this will appear
+as an abnormally large spike, but the TX health department specifically points to the change in reporting from
+TX Department of Corrections.
+
+KS:
+
+Only updates MWF.
+
+RI:
+
+It's likely that revision is necessary for the past few dates in deaths. RI occasionally updates its town and 
+county numbers for both cases and deaths, and it appears that the dataset might be missing updates at
+that level of granularity.
+
+DC:
+
+The dataset reports data one day in front of the DC government (i.e., June 15th data is reported under June 16th).
