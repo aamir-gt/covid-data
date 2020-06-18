@@ -1,7 +1,7 @@
 06-16
 
-Total cases: 2,101,605 (+24,728)
-Total deaths: 115,386 (+791)
+Total cases: 2,125,797 (+24,728)
+Total deaths: 116,153 (+791)
 
 Did not update (cases and deaths):
 

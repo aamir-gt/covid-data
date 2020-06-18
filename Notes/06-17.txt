@@ -1,0 +1,22 @@
+06-17
+
+Total cases: 2,150,828 (+25,031)
+Total deaths: 116,952 (+799)
+
+The following cases had no increase in deaths:
+
+AK
+WY
+WV
+VT
+AK
+ND
+HI
+ID
+
+
+Notes (States):
+
+RI:
+
+We are continuing to work on data quality for RI.
