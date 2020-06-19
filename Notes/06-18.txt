@@ -1,5 +1,8 @@
 06-18
 
+Total cases: 2,178,049 (+25,031)
+Total deaths: 117,622 (+670)
+
 The following states did not update:
 
 LA (technical reasons)
