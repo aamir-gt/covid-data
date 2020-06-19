@@ -1,0 +1,39 @@
+06-18
+
+The following states did not update:
+
+LA (technical reasons)
+MS ("Our COVID-19 updating has been delayed due to technical problems")
+ND
+KS (only updates MWF)
+
+The following states did not show an increase in deaths, but are reporting up-to-date numbers:
+
+WV
+WY
+ME
+SD
+AK
+HI
+MT
+
+
+Notes (States):
+
+LA:
+
+Louisiana has indicated they will not be updating data for 06/18 due to technical reasons. Historically,
+This has meant that they will also not break out new cases and deaths on 06/19 into two separate
+dates, and we might expect to see a larger increase in 06/19 as a result.
+
+MS:
+
+The state has experienced technical issues, and historically we have been able to backfill and
+reconcile thee issues in MS.
+
+ND:
+
+For unknown reasons, the state has not updated data. The state health department website has no 
+indication that 06/18 has been published, it is likely that the update is delayed for some reason.
+The state generally provides an ability to see trend data, and this will likely be possible to
+backfill.
