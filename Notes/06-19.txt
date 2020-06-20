@@ -1,0 +1,31 @@
+06-19
+
+Total cases: 2,208,247 (+30,198)
+Total deaths: 118,373 (+751)
+
+The following states did not update:
+
+MS
+
+The following states did not show an increase in deaths, but are reporting up-to-date numbers:
+
+WV
+VT
+ME
+SD
+AK
+HI
+MT
+ID
+
+
+Notes (States):
+
+LA:
+
+Louisiana removed duplicate cases across parishes resulting in large decreases in some counties. "A total of 1,666 existing duplicate cases as well as cases of out-of-state residents were removed" according the LDH.
+
+MS:
+
+The state has experienced technical issues, and historically we have been able to backfill and
+reconcile thee issues in MS. No update again on 06/19.
