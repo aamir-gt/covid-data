@@ -1,0 +1,48 @@
+06-21
+
+Total cases: 2,267,064 (+27,004)
+Total deaths: 119,187 (+266)
+
+The following states did not update:
+
+MS (technical difficulties persist)
+RI (does not update Sat/Sun)
+ID (does not update Sun)
+
+The following states did not show an increase in deaths, but are reporting up-to-date numbers:
+
+WY
+VT
+ME
+SD
+AK
+CO
+HI
+ID
+NE
+MT
+NH
+WI
+
+
+Notes:
+
+General:
+
+There was a smaller than expected increase in deaths, but this is not uncommon on Sunday data uploads. In general,
+we see a higher than normal uptick on Mondays that compensates for this.
+
+DC, ND, VA, WV:
+
+Data on 06/21 was erroneously reported for 06/20 -- corrected in the new dataset
+
+KS:
+
+Numbers updated in some larger counties, but the rest of the state updates MWF. Data for larger counties sourced
+from the counties themselves.
+
+LA:
+
+If possible, data will be backfilled and corrected as a result of the state's removal of case duplications. At the
+moment this might cause trends to look odd in certain counties whose data was particularly affected by the removal
+of duplicated cases.
