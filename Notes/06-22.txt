@@ -1,0 +1,14 @@
+06-22
+
+Total cases: 2,296,521 (+29,560)
+Total deaths: 119,555 (+380)
+
+All states updated cases and deaths today.
+
+Notes
+
+MS: 
+
+The state began republishing county level data. Data for days which were skipped (from 06/17 - 06/21) will be
+added from state health department tweets and press releases where possible to statewide unallocated for previous
+dates. This will be reflected in the 06/23 upload.
